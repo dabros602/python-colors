@@ -10,11 +10,11 @@ True color is RGB having more than 16-million colors.
 ## Documentation
 First import the module
 ```powershell
-pip install Colors
+pip install "git+https://github.com/dabros602/python-colors.git"
 ```
 or
 ```powershell
-python -m pip install colors
+python -m pip install "git+https://github.com/dabros602/python-colors.git"
 ```
 
 To use basic color:
